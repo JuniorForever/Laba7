@@ -1,0 +1,9 @@
+Runner\IntegralParameters.class
+Runner\services\VectorMultiplierService.class
+Runner\Vectors.class
+Runner\businessLogic\Calculator.class
+Runner\exceptions\VectorLengthException.class
+Runner\Runner.class
+Runner\services\CalculatorService.class
+Runner\businessLogic\VectorMultiplier.class
+Runner\exceptions\IntegralParametrsException.class
